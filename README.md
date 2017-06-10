@@ -1,5 +1,7 @@
 # TedNuGet.Server
 
+[![Join the chat at https://gitter.im/TedNuGetServer/TedNeGetServer](https://badges.gitter.im/TedNuGetServer/TedNeGetServer.svg)](https://gitter.im/TedNuGetServer/TedNeGetServer?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 TedNuGet.Server is an Open Source implementation of the [NuGet.Server](https://github.com/NuGet/NuGet.Server) using AWS Lambda, API Gateway, and S3.
 
 ## Goals
